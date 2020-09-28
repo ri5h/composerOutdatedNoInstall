@@ -5,7 +5,7 @@ The main motivation behind the script was to find a way trying to run `composer 
 
 **How to run**
 1. Make sure all above packages are installed
-2. python3 outdated.py --path <repo-relative-path>
+2. `python3 outdated.py --path <repo-relative-path>`
 
 
 **outdated.py** 
